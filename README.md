@@ -1,7 +1,5 @@
 # Hand-Written-Digit-Prediction-Classification
 
-**
-
 The problem at hand revolves around the accurate and efficient recognition of handwritten digits. In various domains, from postal services to finance, there exists a need for automated digit recognition systems that can interpret and classify handwritten numerical characters reliably. Traditional optical character recognition (OCR) techniques struggle with the inherent variations in handwriting styles, leading to suboptimal performance.
 
 The objective of this project is to develop a robust and precise system for recognizing handwritten digits through the synergistic application of machine learning and image processing techniques. The system aims to take raw images of handwritten digits as input and provide accurate predictions of the corresponding numerical values. The proposed solution involves:
@@ -24,6 +22,3 @@ The successful implementation of this solution will offer a practical and effici
 
 
 
-
-
-Regenerate
